@@ -1,0 +1,9 @@
+{
+  "implementation": "USE_NFT_TOKEN",
+  "admin": "USE_MULTI_ADMIN",
+  "minter": [
+    "CAN_MINT",
+    "CAN_BURN"
+  ],
+  "minterAdmin": "USE_ADMIN_AS_MINTER"
+}

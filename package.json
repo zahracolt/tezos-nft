@@ -1,0 +1,13 @@
+{
+  "name": "ligo-smart-contract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@oxheadalpha/fa2-contracts": "^4.0.0"
+  },
+  "dependencies": {
+    "@taquito/beacon-wallet": "^12.0.0",
+    "@taquito/tezbridge-signer": "^12.0.0"
+  }
+}
